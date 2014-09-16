@@ -1,6 +1,6 @@
 <html>
 <title>Formulario</title>
-<head>Mi Formulario</head>
+<head><h1>Mi Formulario</h1></head>
 <body>
 	<?php 
 		
